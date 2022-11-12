@@ -11,6 +11,7 @@ FATCAT is the software package behind https://fatcat.godziklab.org
 * Ye Y, Godzik A. FATCAT: a web server for flexible structure comparison and structure similarity searching. Nucleic Acids Res. 2004;32(Web Server issue):W582-W585. http://doi:10.1093/nar/gkh430
 
 ## Installation 
+(tested with compiler version 4.8.5 under Centos 7)
 
 Run 
 >./Install
