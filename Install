@@ -9,6 +9,7 @@ if(test -d "/usr/include/c++/") then
 else	cp basic_73.h basic.h
 fi
 
+make clean
 make
 
 echo
